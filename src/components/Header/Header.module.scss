@@ -1,0 +1,20 @@
+.header-container {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+
+    //     @media screen and (min-width: 768px) {
+
+    //     }
+}
+
+.header-intro-container {
+    width: 45%;
+    text-align: start;
+}
+
+.header-intro-title {
+    color: var(--violet);
+    font-size: 3rem;
+}

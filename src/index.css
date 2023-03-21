@@ -1,3 +1,26 @@
+:root {
+	--violet: #512051;
+	--violet-light: #F7F2F7;
+	--pink: #EE69A4;
+	--white: #FFFFFF
+}
+
+*,
+*::after,
+*::before {
+	box-sizing: border-box
+}
+
+img {
+	display: block;
+	max-width: 100%;
+}
+
+a {
+	text-decoration: none;
+	color: inherit;
+}
+
 body {
-	font-family: sans-serif;
+	font-family: 'League Spartan', sans-serif;
 }
